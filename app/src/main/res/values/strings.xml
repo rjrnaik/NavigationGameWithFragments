@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RajrishiNaikNavigationGame</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="gameRule">
+        Fragment generates two nos. from 1 to 10.\n
+        If you think left number is greater, select ">".\n
+        If you think left number is smaller, select "&lt;".\n
+        If you think both numbers are equal, select "=".
+    </string>
+    <string name="end">End</string>
+</resources>

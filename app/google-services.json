@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072927111112",
+    "project_id": "navigationgame-64846",
+    "storage_bucket": "navigationgame-64846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072927111112:android:2b43e92fac09e9ff8372fd",
+        "android_client_info": {
+          "package_name": "project.st991660690.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072927111112-33tmfk94q8qeuh7ckm2u3f3kog016hda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHKZ8WRLxOLNKmHYhgJcix3wKm2PMursU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072927111112-33tmfk94q8qeuh7ckm2u3f3kog016hda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
